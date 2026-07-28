@@ -1,6 +1,6 @@
 # Telco Customer Churn & Retention Analysis
 
-![Customer Churn Dashboard](image_fb60bc.png)
+![Customer Churn Dashboard](image_2026-07-28_214650835.png)
 
 A comprehensive Power BI dashboard and exploratory data analysis project built to investigate customer churn patterns, identify high-risk demographic and contract segments, and provide actionable retention insights for telecommunications businesses.
 
