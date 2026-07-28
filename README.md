@@ -1,5 +1,7 @@
 # Telco Customer Churn & Retention Analysis
 
+![Customer Churn Dashboard](image_fb60bc.png)
+
 A comprehensive Power BI dashboard and exploratory data analysis project built to investigate customer churn patterns, identify high-risk demographic and contract segments, and provide actionable retention insights for telecommunications businesses.
 
 ---
@@ -10,8 +12,8 @@ Customer churn is a critical metric for subscription-based businesses. This proj
 ---
 
 ## 🛠️ Tech Stack & Tools
-* **Data Processing:** Python[cite: 1], Pandas[cite: 1] (Handling missing values in `TotalCharges`[cite: 1])
-* **Data Visualization & Dashboarding:** Power BI Desktop[cite: 2]
+* **Data Processing:** Python, Pandas (Handling missing values in `TotalCharges`)
+* **Data Visualization & Dashboarding:** Power BI Desktop
 * **Data Modeling & Metrics:** DAX (Data Analysis Expressions) for calculated measures (`Churn Rate`, `Total Churned`, `Total Customers`)
 * **Version Control:** Git & GitHub
 
@@ -28,6 +30,7 @@ Customer churn is a critical metric for subscription-based businesses. This proj
 
 ## 📂 Project Structure
 ```text
-├── Telco_Customer_Churn_Analysis.pbix    # Interactive Power BI Dashboard file[cite: 2]
-├── customer_churn_analysis.py            # Python data preprocessing & cleaning script[cite: 1]
+├── Telco_Customer_Churn_Analysis.pbix    # Interactive Power BI Dashboard file
+├── customer_churn_analysis.py            # Python data preprocessing & cleaning script
+├── image_fb60bc.png                      # Dashboard preview image
 └── README.md                             # Project documentation
